@@ -12,3 +12,5 @@
             TRAIN_NPZ_ROOT = f"{TRAIN_BASE_PATH}/scene_info_0.1_0.7"
 
 ```
+
+![image](https://github.com/user-attachments/assets/75ec174f-9966-428d-aff1-a9c58c245a9a)
