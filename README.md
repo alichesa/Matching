@@ -14,3 +14,7 @@
 ```
 
 ![image](https://github.com/user-attachments/assets/75ec174f-9966-428d-aff1-a9c58c245a9a)
+
+![image](https://github.com/user-attachments/assets/11020ba9-fc00-4f6c-9a72-5bf383c7c6be)
+
+==文章十分重要，在【13】中讲述了如何进行轻量化设计，以及正文中都有
